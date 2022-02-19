@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pasarservice:
+    image: ${DOCKER_REGISTRY-}pasarservice
+    build:
+      context: .
+      dockerfile: PasarService/Dockerfile

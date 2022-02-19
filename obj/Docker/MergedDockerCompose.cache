@@ -1,0 +1,16 @@
+services:
+  pasarservice:
+    build:
+      context: /Users/ariboss89/Projects/Public Project/PasarService
+      dockerfile: PasarService/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: pasarservice
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - /Users/ariboss89/.aspnet/https:/root/.aspnet/https:ro
+    - /Users/ariboss89/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
