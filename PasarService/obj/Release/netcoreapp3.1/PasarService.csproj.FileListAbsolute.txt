@@ -1,0 +1,211 @@
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/appsettings.Development.json
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/appsettings.json
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.deps.json
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.runtimeconfig.json
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.runtimeconfig.dev.json
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.pdb
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Google.Protobuf.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/MySql.Data.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ZstdNet.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.Convention.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/PasarService/PasarService/bin/Release/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.csproj.AssemblyReference.cache
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.AssemblyInfoInputs.cache
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.AssemblyInfo.cs
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.csproj.CoreCompileInputs.cache
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.MvcApplicationPartsAssemblyInfo.cache
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/staticwebassets/PasarService.StaticWebAssets.Manifest.cache
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/staticwebassets/PasarService.StaticWebAssets.xml
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/scopedcss/bundle/PasarService.styles.css
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.RazorTargetAssemblyInfo.cache
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.csproj.CopyComplete
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.dll
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.pdb
+/Users/ariboss89/Projects/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.genruntimeconfig.cache
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/appsettings.Development.json
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/appsettings.json
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.deps.json
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.runtimeconfig.json
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.runtimeconfig.dev.json
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/PasarService.pdb
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Google.Protobuf.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/MySql.Data.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ZstdNet.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.Convention.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/bin/Release/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.csproj.AssemblyReference.cache
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.AssemblyInfoInputs.cache
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.AssemblyInfo.cs
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.csproj.CoreCompileInputs.cache
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.MvcApplicationPartsAssemblyInfo.cache
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/staticwebassets/PasarService.StaticWebAssets.Manifest.cache
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/staticwebassets/PasarService.StaticWebAssets.xml
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/scopedcss/bundle/PasarService.styles.css
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.RazorTargetAssemblyInfo.cache
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.dll
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.pdb
+/Users/ariboss89/Projects/Public Project/PasarService/PasarService/obj/Release/netcoreapp3.1/PasarService.genruntimeconfig.cache

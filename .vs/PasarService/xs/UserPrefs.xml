@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{0672CEED-D7AA-4073-9DD4-0C16FB0F291C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PasarService/Interface/IBarang.cs">
+    <Files>
+      <File FileName="PasarService/Interface/IPenjualan.cs" Line="12" Column="36" />
+      <File FileName="PasarService/Controllers/PenjualanController.cs" Line="86" Column="44" />
+      <File FileName="PasarService/Repository/PenjualanRepository.cs" Line="38" Column="43" />
+      <File FileName="PasarService/Interface/IBarang.cs" Line="13" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PasarService" expanded="True">
+            <Node name="PasarService" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Interface" expanded="True">
+                <Node name="IBarang.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PasarService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ariboss89/Projects/PasarService/PasarService/Controllers/CategoryController.cs" relfile="PasarService/Controllers/CategoryController.cs" line="67" column="1" />
+      <Breakpoint file="/Users/ariboss89/Projects/PasarService/PasarService/Controllers/LoginController.cs" relfile="PasarService/Controllers/LoginController.cs" line="78" column="1" />
+      <Breakpoint file="/Users/ariboss89/Projects/PasarService/PasarService/Controllers/LoginController.cs" relfile="PasarService/Controllers/LoginController.cs" line="188" column="1" />
+      <Breakpoint file="/Users/ariboss89/Projects/PasarService/PasarService/Controllers/LoginController.cs" relfile="PasarService/Controllers/LoginController.cs" line="189" column="1" />
+      <Breakpoint file="/Users/ariboss89/Projects/PasarService/PasarService/Controllers/LoginController.cs" relfile="PasarService/Controllers/LoginController.cs" line="193" column="1" />
+      <Breakpoint file="/Users/ariboss89/Projects/PasarService/PasarService/Controllers/LoginController.cs" relfile="PasarService/Controllers/LoginController.cs" line="197" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
